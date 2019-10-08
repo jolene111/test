@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 dfkas;kf;lsdkflsdkjdsjkldsjkdsfjkfdsjkjklsd
 
+<<<<<<< HEAD
 yup yup yup
 
 mroe changes
 =======
 dfkas;kf;lsdkflsdkjdsjkldsjkdsfjkfdsjkjklsd
 >>>>>>> parent of 939e865... AHHHHHHH
+=======
+yup yup yup
+>>>>>>> parent of 259c3c4... more changes
