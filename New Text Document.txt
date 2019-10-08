@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 dfkas;kf;lsdkflsdkjdsjkldsjkdsfjkfdsjkjklsd
 
 yup yup yup
 
 mroe changes
+=======
+dfkas;kf;lsdkflsdkjdsjkldsjkdsfjkfdsjkjklsd
+>>>>>>> parent of 939e865... AHHHHHHH
